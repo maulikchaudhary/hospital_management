@@ -1,0 +1,3 @@
+P url to A view
+Static
+template
